@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+API-JWT/.metadata/
+API-JWT/.recommenders/
+API-JWT/oauth/.classpath
+API-JWT/oauth/.project
+API-JWT/oauth/.settings/
+API-JWT/oauth/target/
+API-JWT/oauth/WebContent/WEB-INF/classes/jwk/
+API-JWT/RemoteSystemsTempFiles/
